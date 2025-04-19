@@ -3,7 +3,7 @@ Whatsapp Bot
 
 ## 🎀 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/Dilshan841/-DILSHAN_MD-/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+<a href="https://github.com/Dilshan841/ASHINSA-/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
